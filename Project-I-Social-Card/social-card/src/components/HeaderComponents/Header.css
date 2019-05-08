@@ -1,1 +1,23 @@
 /* All styles for your header Components live here */
+.container{
+    border: 2px solid red;
+    display: flex;
+}
+
+.head-content {
+    width: 100%;
+    border: 1px solid lightblue;
+}
+
+.image-thumbnail {
+    border: 1px solid green;
+    margin: 2px;
+}
+
+#thumbnail {
+    height: 100px;
+}
+
+h4 {
+    margin: 16px 10px 0px 0px;
+}
