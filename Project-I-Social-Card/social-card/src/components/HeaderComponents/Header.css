@@ -2,6 +2,7 @@
 .container{
     border: 2px solid red;
     display: flex;
+    margin: 1px;
 }
 
 .head-content {
