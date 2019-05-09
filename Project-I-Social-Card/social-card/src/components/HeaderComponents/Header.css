@@ -5,6 +5,10 @@
     margin: 1px;
 }
 
+.title {
+    display: flex;
+}
+
 .head-content {
     width: 100%;
     border: 1px solid lightblue;
