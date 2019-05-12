@@ -1,0 +1,9 @@
+.displayButton {
+    background: black;
+    color: white;
+    font-size: 6rem;
+    font-weight: 200;
+    width: 100%;
+    height: 130px;
+    text-align: right;
+}
