@@ -19,6 +19,10 @@
     margin: 2px;
 }
 
+.ptag {
+    color: lightgray;
+}
+
 #thumbnail {
     height: 100px;
 }
